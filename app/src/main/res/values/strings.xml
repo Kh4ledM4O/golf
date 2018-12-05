@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">golf</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">494755767689553</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+    <string name="log_out" translatable="false">log out</string>
+    <string name="delete" translatable="false">delete</string>
+    <string name="welcome_message">Hello</string>
+    <string name="sign_in">sign in</string>
+</resources>

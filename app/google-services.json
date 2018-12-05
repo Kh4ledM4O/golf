@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724635818884",
+    "firebase_url": "https://golf-e3754.firebaseio.com",
+    "project_id": "golf-e3754",
+    "storage_bucket": "golf-e3754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724635818884:android:7d34b8688ec6cd2a",
+        "android_client_info": {
+          "package_name": "com.example.undetermined.golf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724635818884-njph2cm9gha0g6qpdhd698r22s3gkhar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.undetermined.golf",
+            "certificate_hash": "c7e05f0df7e6e759208a4611209351d40c816042"
+          }
+        },
+        {
+          "client_id": "724635818884-4fitkrqfq7c88dqsuhq73kkq7ae6t9h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNoTpXx6Z7JjB_HLdXH5r4cylRAzmNcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724635818884-4fitkrqfq7c88dqsuhq73kkq7ae6t9h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
